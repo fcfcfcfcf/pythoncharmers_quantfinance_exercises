@@ -1,1 +1,1 @@
-# pythoncharmers_quantfinance_solutions
+# pythoncharmers_quantfinance_exercises
